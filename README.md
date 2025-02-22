@@ -68,3 +68,5 @@ NOTE: В этой версии скрипта он использует внеш
     localhost:5433:leadtime:<login>:<password>
     где <login> - логин для postgresql, а <password> - пароль для postgresql
     Ограничьте доступ к файлу: chmod 0600 .pgpass
+	
+TEST	
